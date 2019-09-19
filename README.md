@@ -1,6 +1,6 @@
 # Laboratory for Machine Learning
 
-This is a repository for variuos machine learning concepts which I have learnt during my machine learning lab sessions.
+This is a repository for various machine learning concepts which I have learnt during my machine learning lab sessions.
 It consists of following topics:
 
 * Basics of Python Language
